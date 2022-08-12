@@ -2,4 +2,9 @@ Beatriz
 Juliana
 Ewerton
 Wallison
-Chameison
+
+
+*C*
+#1 - Como anunciante, eu quero anunciar um animal perdido para que ele possa ser resgatado.
+#2 - Como anunciante, eu quero cadastrar as características (raça ou desconhecido, cor, porte, acessório) para que ele possa ser identificado.
+#3 - Como anunciante, eu quero registrar uma ou mais fotos para que ele possa ser identificado mais facilmente.
