@@ -4,4 +4,10 @@ Lorem Ipsum tem sido o texto fictício padrão da indústria desde os anos 1500
 Lorem Ipsum é simplesmente um texto fictício da indústria tipográfica e de impressão.
 Lorem Ipsum tem sido o texto fictício padrão da indústria desde os anos 1500
 
+<<<<<<< HEAD
 
+=======
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+ ESTIVE AQUI E ADICIONEI ESTA LINHA PARA ILUSTRAR UMA MODIFICAÇÃO.
+>>>>>>> organizacao-notificacao-localizacao
