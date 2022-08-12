@@ -2,4 +2,9 @@ Como anunciante, eu quero marcar o local visto pela última vez para que ele pos
 #14 Eu como Organização preciso Localizar os animais perdidos para realizar o resgate | #12 Eu como Organização do sistema preciso alterar minhas informações, para manter meus dados atualizados | #10 u como Organização preciso realizar o meu cadastro no sistema para ter acesso as funcionalidades
 Ewerton
 Wallison
-Chameison
+
+
+*C*
+#1 - Como anunciante, eu quero anunciar um animal perdido para que ele possa ser resgatado.
+#2 - Como anunciante, eu quero cadastrar as características (raça ou desconhecido, cor, porte, acessório) para que ele possa ser identificado.
+#3 - Como anunciante, eu quero registrar uma ou mais fotos para que ele possa ser identificado mais facilmente.
