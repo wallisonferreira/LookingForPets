@@ -1,5 +1,5 @@
 Como anunciante, eu quero marcar o local visto pela última vez para que ele possa ser resgatado. | Como anunciante, eu quero poder escolher se estou identificado ou não. | Como anunciante, eu quero poder acompanhar o status do animal para que eu saiba se ele foi resgatado ou não.
-Juliana
+#14 Eu como Organização preciso Localizar os animais perdidos para realizar o resgate | #12 Eu como Organização do sistema preciso alterar minhas informações, para manter meus dados atualizados | #10 u como Organização preciso realizar o meu cadastro no sistema para ter acesso as funcionalidades
 Ewerton
 Wallison
 Chameison
