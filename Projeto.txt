@@ -17,10 +17,10 @@ Ewerton
 #13 Receber notificação dos animais encontrados próximo a minha localidade.
 
 Wallison
+
 Como usuário comum, quero logar no sistema, para realizar alguma ação dentro do sistema, como informar que sou dono do animal ou ver informações mais detalhadas #5
 Como usuário comum, quero visualizar os animais perdidos e a localização, para que eu possa procurar um animal perdido. #4
 Como usuário comum, quero poder informar que sou dono ou conheço o animal, para que todas as pessoas no sistema fiquem informadas. #6
-
 
 Chameison
 #1 - Como anunciante, eu quero anunciar um animal perdido para que ele possa ser resgatado.
