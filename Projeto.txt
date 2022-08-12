@@ -1,15 +1,28 @@
-Como anunciante, eu quero marcar o local visto pela última vez para que ele possa ser resgatado. | Como anunciante, eu quero poder escolher se estou identificado ou não. | Como anunciante, eu quero poder acompanhar o status do animal para que eu saiba se ele foi resgatado ou não.
+Beatriz
 
-#14 Eu como Organização preciso Localizar os animais perdidos para realizar o resgate | #12 Eu como Organização do sistema preciso alterar minhas informações, para manter meus dados atualizados | #10 u como Organização preciso realizar o meu cadastro no sistema para ter acesso as funcionalidades
+Como anunciante, eu quero marcar o local visto pela última vez para que ele possa ser resgatado.
+Como anunciante, eu quero poder escolher se estou identificado ou não.
+Como anunciante, eu quero poder acompanhar o status do animal para que eu saiba se ele foi resgatado ou não.
+
+Juliana
+
+#14 Eu como Organização preciso Localizar os animais perdidos para realizar o resgate
+#12 Eu como Organização do sistema preciso alterar minhas informações, para manter meus dados atualizados
+#10 u como Organização preciso realizar o meu cadastro no sistema para ter acesso as funcionalidades
+
 Ewerton
-Ewert- #15Como uma organização preciso observar a situação que encontramos os animais perdidos para, informar seu estado de saúde.
-#11Eu como Ong preciso informar o recolhimento do animal para atualização do sistema.
-#13Receber notificação dos animais encontrados próximo a minha localidade.
+
+#15 Como uma organização preciso observar a situação que encontramos os animais perdidos para, informar seu estado de saúde.
+#11 Eu como Ong preciso informar o recolhimento do animal para atualização do sistema.
+#13 Receber notificação dos animais encontrados próximo a minha localidade.
 
 Wallison
+Como usuário comum, quero logar no sistema, para realizar alguma ação dentro do sistema, como informar que sou dono do animal ou ver informações mais detalhadas #5
+Como usuário comum, quero visualizar os animais perdidos e a localização, para que eu possa procurar um animal perdido. #4
+Como usuário comum, quero poder informar que sou dono ou conheço o animal, para que todas as pessoas no sistema fiquem informadas. #6
 
 
-*C*
+Chameison
 #1 - Como anunciante, eu quero anunciar um animal perdido para que ele possa ser resgatado.
 #2 - Como anunciante, eu quero cadastrar as características (raça ou desconhecido, cor, porte, acessório) para que ele possa ser identificado.
 #3 - Como anunciante, eu quero registrar uma ou mais fotos para que ele possa ser identificado mais facilmente.
